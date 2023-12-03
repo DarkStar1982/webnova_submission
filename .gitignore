@@ -1,2 +1,4 @@
 *.code-workspace
 .venv
+Python/model_0024999.pth
+Python/model_0043999.pth
